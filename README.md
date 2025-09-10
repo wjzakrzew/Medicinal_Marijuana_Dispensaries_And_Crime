@@ -20,3 +20,6 @@ decreased or remained constant in geographical areas following the
 opening of a dispensary. MMDs do not appear to have an immediate
 criminogenic effect. Implications for future research regarding potential
 confounding factors and data limitations are discussed.
+
+## Data and Code
+Link to replicate the findings of this study can be found [here](https://www.dropbox.com/s/3vt8hoow98r8jlh/DC_MMD_Analysis.7z?dl=0)
