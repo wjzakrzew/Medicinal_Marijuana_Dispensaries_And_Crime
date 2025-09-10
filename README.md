@@ -22,4 +22,4 @@ criminogenic effect. Implications for future research regarding potential
 confounding factors and data limitations are discussed.
 
 ## Data and Code
-Link to replicate the findings of this study can be found [here](https://www.dropbox.com/s/3vt8hoow98r8jlh/DC_MMD_Analysis.7z?dl=0)
+All Data and Code to replicate the findings of this study can be found [here](https://www.dropbox.com/s/3vt8hoow98r8jlh/DC_MMD_Analysis.7z?dl=0)
