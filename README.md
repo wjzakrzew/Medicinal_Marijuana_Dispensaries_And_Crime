@@ -1,5 +1,6 @@
 # Medicinal_Marijuana_Dispensaries_And_Crime
 Publication on Medicinal Marijuana Dispensaries and Crime in Washington, DC.
+Article can be found [here](https://www.tandfonline.com/doi/full/10.1080/0735648X.2019.1582351).
 
 ## ABSTRACT
 The legalization of medical marijuana remains a controversial policy. An
